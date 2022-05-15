@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 26442
+Build-Jdk: 1.8.0_291
+Implementation-Title: spring-boot-04-web-jsp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.atguigu
+Main-Class: ${start-class}
+
